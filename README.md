@@ -1,0 +1,2 @@
+# gitstudy
+use study git
